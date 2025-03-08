@@ -11,4 +11,4 @@ jobs:
         run: |
           node -v
           npm -v
-          ls -l
+          echo Hi how are you
