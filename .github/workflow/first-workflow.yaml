@@ -10,5 +10,5 @@ jobs:
       - name: Multiline Command
         run: |
           node -v
-          npm -v
-          echo Hi how are you
+          ls -a
+          pwd
