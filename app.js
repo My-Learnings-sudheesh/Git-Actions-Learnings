@@ -1,3 +1,2 @@
 alert(true);
-alert(true);
 
